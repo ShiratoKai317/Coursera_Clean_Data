@@ -23,4 +23,4 @@ An assortment of data collected from 30 volunteers participating in 6 different 
   * Removed all feature columns except those pertaining to "mean()" and "std()"
   * Converted the activity column to a factor and added labels
   * Combined everything into a tidy data set where every subject has a row for each activity containing the mean for every feature
-  * Exported the new data set to "tidy.csv"
+  * Exported the new data set to "tidy_data.txt"
